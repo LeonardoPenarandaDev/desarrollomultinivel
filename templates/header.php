@@ -1,3 +1,6 @@
+<?php
+  $rol = $_POST['rol'];
+?>
 <!DOCTYPE html>
 <html lang="es">
  
