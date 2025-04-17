@@ -20,6 +20,7 @@
 
 <nav class="navbar navbar-default navbar-fixed-top am-top-header">
         <div class="container-fluid">
+
           <div class="navbar-header">
             <div class="page-title"><span>Plataforma</span></div><a href="#" class="am-toggle-left-sidebar navbar-toggle collapsed"><span class="icon-bar"><span></span><span></span><span></span></span></a><a href="../vistas/dashboard.php" class="navbar-brand"></a>
           </div><a href="#" class="am-toggle-right-sidebar"><span class="icon s7-menu2"></span></a><a href="#" data-toggle="collapse" data-target="#am-navbar-collapse" class="am-toggle-top-header-menu collapsed"><span class="icon s7-angle-down"></span></a>

@@ -1,6 +1,7 @@
 <?php
     require '../includes/session.php';
     include '../templates/header.php';
+
 ?>
   <body>
     <div class="am-wrapper am-fixed-sidebar">
@@ -103,42 +104,7 @@
                 </li>
               </ul>
             </li>
-            <li class="parent"><a href="#"><i class="icon s7-mail"></i><span>Email</span></a>
-              <ul class="sub-menu">
-                <li><a href="email-inbox.html">Inbox</a>
-                </li>
-                <li><a href="email-read.html">Email Detail</a>
-                </li>
-                <li><a href="email-compose.html">Email Compose</a>
-                </li>
-              </ul>
-            </li>
-            <li class="parent"><a href="#"><i class="icon s7-browser"></i><span>Layouts</span></a>
-              <ul class="sub-menu">
-                <li><a href="layouts-nosidebar-left.html">Without Left Sidebar</a>
-                </li>
-                <li><a href="layouts-nosidebar-right.html">Without Right Sidebar</a>
-                </li>
-                <li><a href="layouts-nosidebars.html">Without Both Sidebars</a>
-                </li>
-                <li><a href="layouts-white-header.html">White Header</a>
-                </li>
-                <li><a href="layouts-fixed-sidebar.html">Fixed Left Sidebar</a>
-                </li>
-                <li><a href="layouts-left-sidebar-click.html"><span class="label label-primary pull-right">New</span>Open left sidebar on click</a>
-                </li>
-                <li><a href="pages-blank-aside.html">Page Aside</a>
-                </li>
-              </ul>
-            </li>
-            <li class="parent"><a href="#"><i class="icon s7-map-marker"></i><span>Maps</span></a>
-              <ul class="sub-menu">
-                <li><a href="maps-google.html">Google Maps</a>
-                </li>
-                <li><a href="maps-vector.html">Vector Maps</a>
-                </li>
-              </ul>
-            </li>
+
           </ul>
           <!--Sidebar bottom content-->
         </div>

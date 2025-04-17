@@ -16,7 +16,6 @@
     <link rel="stylesheet" type="text/css" href="assets/css/themes/theme-google.css"/>  
 
 
-    <![endif]-->
 </head>
 
 <body class="am-splash-screen">
@@ -26,7 +25,7 @@
                 <div class="login-container">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <img src="assets/img/logo.png" alt="logo" width="150px" height="150px" class="logo-img">
+                            <img src="assets/img/logo.png" alt="logo" width="120px" height="120px" class="logo-img">
                             <h1 style="color:white ; font-size: 20px">SIECRO</h1>
                             <span>Iniciar sesión</span>
                         </div>
