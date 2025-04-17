@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/img/favicon.html">
+    <link rel="shortcut icon" href="assets/img/logo.png">
     <title>SIECRO</title>
     
     <!-- Estilos -->
