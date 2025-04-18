@@ -5,16 +5,14 @@
 ?>
 <body>
 
-    <?php
-
-      include '../templates/menu-admin.php';
+    <?php include '../templates/menu-admin.php'; ?>
+    <div>
+    <h2>Bienvenido a la Plataforma</h2>
+    </div>
+    
 
 
       
 
-      include '../templates/footer.php';
-
-    ?>
-
-
+    <?php  include '../templates/footer.php';?>
 </body>
