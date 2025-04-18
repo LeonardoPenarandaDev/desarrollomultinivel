@@ -16,10 +16,6 @@
                 </li>
                 <li class="active"><a href="dashboard2.html">Version 2</a>
                 </li>
-                <li><a href="dashboard3.html"><span class="label label-primary pull-right">New</span>Version 3</a>
-                </li>
-                <li><a href="dashboard4.html"><span class="label label-primary pull-right">New</span>Version 4</a>
-                </li>
               </ul>
             </li>
             <li class="parent"><a href="#"><i class="icon s7-diamond"></i><span>UI Elements</span></a>
@@ -27,24 +23,6 @@
                 <li><a href="ui-general.html">General</a>
                 </li>
                 <li><a href="ui-alerts.html">Alerts</a>
-                </li>
-                <li><a href="ui-panels.html">Panels</a>
-                </li>
-                <li><a href="ui-buttons.html">Buttons</a>
-                </li>
-                <li><a href="ui-modals.html">Modals</a>
-                </li>
-                <li><a href="ui-notifications.html">Notifications</a>
-                </li>
-                <li><a href="ui-icons.html">Icons</a>
-                </li>
-                <li><a href="ui-grid.html">Grid</a>
-                </li>
-                <li><a href="ui-tabs-accordions.html">Tabs &amp; Accordions</a>
-                </li>
-                <li><a href="ui-chat.html"><span class="label label-primary pull-right">New</span>Chat Component</a>
-                </li>
-                <li><a href="ui-nestable-lists.html">Nestable Lists</a>
                 </li>
               </ul>
             </li>
@@ -63,14 +41,6 @@
                 <li><a href="form-elements.html">Elements</a>
                 </li>
                 <li><a href="form-validation.html">Validation</a>
-                </li>
-                <li><a href="form-wizard.html">Wizard</a>
-                </li>
-                <li><a href="form-masks.html">Input Masks</a>
-                </li>
-                <li><a href="form-wysiwyg.html">WYSIWYG Editor</a>
-                </li>
-                <li><a href="form-upload.html">Multi Upload</a>
                 </li>
               </ul>
             </li>
